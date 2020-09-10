@@ -23,3 +23,11 @@ class MinMaxUnit( Model ):
     # unit test from scratch named MinMaxUnit_test.py.
     # ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
+#	@s.combinational
+#	def block1():
+#	  if s.in0 <= s.in1:
+#	    s.out_min = s.in0
+#	    s.out_max = s.in1
+#	  else:
+#	    s.out_min = s.in1
+#	    s.out_max = s.in0
